@@ -125,7 +125,18 @@ namespace Jogo_dda_Memoria
         }
 
 
-       
+       public void Verificar()
+       {
+           timer1.Enabled = true;
+           switch (J2)
+           {
+               case 1: button1.Visible = true;   break;
+               case 2: button2.Visible = true; break;
+
+           }
+           timer1.Enabled = false;
+           
+       }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -141,7 +152,7 @@ namespace Jogo_dda_Memoria
 
                 J = R;
                 A = Convert.ToString(R);
-                button1.Name = A;
+                J2= 1;
 
                 
             }
@@ -156,6 +167,7 @@ namespace Jogo_dda_Memoria
                     else
                     {
                         button1.Visible = true;
+                        Verificar();
                         I = 0;
                         
                     }
@@ -190,6 +202,7 @@ namespace Jogo_dda_Memoria
                 }
                 else
                 {
+                    Verificar();
                     button2.Visible = true;
                     I = 0;
                 }
@@ -208,6 +221,7 @@ namespace Jogo_dda_Memoria
                 pictureBox10.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R2) + ".jpg");
 
                 J = R2;
+                J2 = 3;
                 
             }
             if (I == 2)
@@ -221,6 +235,7 @@ namespace Jogo_dda_Memoria
                 }
                 else
                 {
+                    Verificar();
                     button3.Visible = true;
                     I = 0;
                 }
@@ -237,6 +252,7 @@ namespace Jogo_dda_Memoria
                 pictureBox13.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R3) + ".jpg");
 
                 J = R3;
+                J2 = 4;
             }
             if (I == 2)
             {
@@ -249,6 +265,7 @@ namespace Jogo_dda_Memoria
                 }
                 else
                 {
+                    Verificar();
                     button4.Visible = true;
                     I = 0;
                 }
@@ -525,6 +542,9 @@ namespace Jogo_dda_Memoria
                     MessageBox.Show("ACERTOU");
             }
         }
+
+        
      
     }
+    
 }
