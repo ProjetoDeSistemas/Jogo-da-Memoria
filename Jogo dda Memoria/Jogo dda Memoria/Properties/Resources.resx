@@ -133,31 +133,5 @@
   <data name="azul" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\azul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BISCOITO" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BISCOITO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Shrek" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Shrek.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Shrek32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Shrek32.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GATO" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GATO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BURRO" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BURRO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="DRAGAO" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DRAGAO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FADA" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FADA.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FIONA" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FIONA.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PRI" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PRI.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+ 
 </root>

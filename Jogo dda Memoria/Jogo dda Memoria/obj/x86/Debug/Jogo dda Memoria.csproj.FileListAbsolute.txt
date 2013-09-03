@@ -25,3 +25,12 @@ C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
 C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
 C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources

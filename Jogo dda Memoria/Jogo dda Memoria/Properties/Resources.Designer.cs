@@ -67,55 +67,6 @@ namespace Jogo_dda_Memoria.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap BISCOITO {
-            get {
-                object obj = ResourceManager.GetObject("BISCOITO", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap BURRO {
-            get {
-                object obj = ResourceManager.GetObject("BURRO", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap DRAGAO {
-            get {
-                object obj = ResourceManager.GetObject("DRAGAO", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap FADA {
-            get {
-                object obj = ResourceManager.GetObject("FADA", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap FIONA {
-            get {
-                object obj = ResourceManager.GetObject("FIONA", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap GATO {
-            get {
-                object obj = ResourceManager.GetObject("GATO", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap PRI {
-            get {
-                object obj = ResourceManager.GetObject("PRI", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
         internal static System.Drawing.Bitmap S {
             get {
                 object obj = ResourceManager.GetObject("S", resourceCulture);
@@ -130,13 +81,6 @@ namespace Jogo_dda_Memoria.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap Shrek {
-            get {
-                object obj = ResourceManager.GetObject("Shrek", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
         internal static System.Drawing.Bitmap Shrek3 {
             get {
                 object obj = ResourceManager.GetObject("Shrek3", resourceCulture);
@@ -147,13 +91,6 @@ namespace Jogo_dda_Memoria.Properties {
         internal static System.Drawing.Bitmap Shrek31 {
             get {
                 object obj = ResourceManager.GetObject("Shrek31", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        internal static System.Drawing.Bitmap Shrek32 {
-            get {
-                object obj = ResourceManager.GetObject("Shrek32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -103,11 +103,29 @@ namespace Jogo_dda_Memoria
                 R15 = numAleatorio.Next(1, 17);
             }
 
+           pictureBox3.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\"+ Convert.ToString(R)+".jpg");
+           pictureBox7.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R1) + ".jpg");
+             pictureBox10.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R2) + ".jpg");
+             pictureBox13.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R3) + ".jpg");
+             pictureBox21.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R4) + ".jpg");
+             pictureBox20.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R5) + ".jpg");
+             pictureBox19.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R6) + ".jpg");
+             pictureBox18.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R7) + ".jpg");
+             pictureBox25.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R8) + ".jpg");
+             pictureBox24.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R9) + ".jpg");
+             pictureBox23.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R10) + ".jpg");
+             pictureBox22.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R11) + ".jpg");
+             pictureBox29.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R12) + ".jpg");
+             pictureBox28.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R13) + ".jpg");
+             pictureBox27.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R14) + ".jpg");
+             pictureBox26.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R15) + ".jpg");
+
+
             
         }
 
 
-
+       
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -120,7 +138,11 @@ namespace Jogo_dda_Memoria
             {
                 pictureBox3.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\"+Convert.ToString(R)+".jpg");
 
+
                 J = R;
+                A = Convert.ToString(R);
+                button1.Name = A;
+
                 
             }
                 if (I==2){
@@ -130,6 +152,12 @@ namespace Jogo_dda_Memoria
                     {
                         MessageBox.Show("ACERTOU");
                         I = 0;
+                    }
+                    else
+                    {
+                        button1.Visible = true;
+                        I = 0;
+                        
                     }
                     }
             
@@ -148,6 +176,7 @@ namespace Jogo_dda_Memoria
                 pictureBox7.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R1) + ".jpg");
 
                 J = R1;
+                J2 = 2;
                 
             }
             if (I == 2)
@@ -157,6 +186,11 @@ namespace Jogo_dda_Memoria
                 if (R1 == J - 8 || R1 == J + 8)
                 {
                     MessageBox.Show("ACERTOU");
+                    I = 0;
+                }
+                else
+                {
+                    button2.Visible = true;
                     I = 0;
                 }
                
@@ -181,8 +215,15 @@ namespace Jogo_dda_Memoria
 
                 pictureBox10.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R2) + ".jpg");
                 if (R2 == J - 8 || R2 == J + 8)
+                {
                     MessageBox.Show("ACERTOU");
-                I = 0;
+                    I = 0;
+                }
+                else
+                {
+                    button3.Visible = true;
+                    I = 0;
+                }
             }
         }
 
@@ -204,6 +245,11 @@ namespace Jogo_dda_Memoria
                 if (R3 == J - 8 || R3 == J + 8)
                 {
                     MessageBox.Show("ACERTOU");
+                    I = 0;
+                }
+                else
+                {
+                    button4.Visible = true;
                     I = 0;
                 }
             }
@@ -229,6 +275,11 @@ namespace Jogo_dda_Memoria
                     MessageBox.Show("ACERTOU");
                     I = 0;
                 }
+                else
+                {
+                    button7.Visible = true;
+                    I = 0;
+                }
             }
         }
 
@@ -236,7 +287,7 @@ namespace Jogo_dda_Memoria
         {
             I = I + 1;
 
-            button1.Visible = false;
+            button6.Visible = false;
             if (I == 1)
             {
                 pictureBox20.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R5) + ".jpg");
@@ -250,6 +301,11 @@ namespace Jogo_dda_Memoria
                 if (R5 == J - 8 || R5 == J + 8)
                 {
                     MessageBox.Show("ACERTOU");
+                    I = 0;
+                }
+                else
+                {
+                    button6.Visible = true;
                     I = 0;
                 }
             }
@@ -350,11 +406,9 @@ namespace Jogo_dda_Memoria
         private void button8_Click(object sender, EventArgs e)
         {
             I = I + 1;
-
+            button8.Visible = false;
             if (I == 1)
             {
-                button1.Visible = false;
-
                 pictureBox23.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R10) + ".jpg");
 
                 J = R10;
@@ -372,7 +426,7 @@ namespace Jogo_dda_Memoria
         {
             I = I + 1;
 
-            button1.Visible = false;
+            button15.Visible = false;
             if (I == 1)
             {
                 pictureBox22.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R11) + ".jpg");
@@ -393,7 +447,7 @@ namespace Jogo_dda_Memoria
         {
             I = I + 1;
 
-            button1.Visible = false;
+            button13.Visible = false;
             if (I == 1)
             {
                 pictureBox29.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R12) + ".jpg");
@@ -414,7 +468,7 @@ namespace Jogo_dda_Memoria
         {
             I = I + 1;
 
-            button1.Visible = false;
+            button12.Visible = false;
             if (I == 1)
             {
                 pictureBox28.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R13) + ".jpg");
@@ -435,7 +489,7 @@ namespace Jogo_dda_Memoria
         {
             I = I + 1;
 
-            button1.Visible = false;
+            button11.Visible = false;
             if (I == 1)
             {
                 pictureBox27.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R14) + ".jpg");
@@ -456,7 +510,7 @@ namespace Jogo_dda_Memoria
         {
             I = I + 1;
 
-            button1.Visible = false;
+            button16.Visible = false;
             if (I == 1)
             {
                 pictureBox26.Image = Image.FromFile(@"C:\Jogo dda Memoria\Jogo dda Memoria\Resources\" + Convert.ToString(R15) + ".jpg");

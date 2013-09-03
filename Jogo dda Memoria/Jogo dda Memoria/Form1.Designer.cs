@@ -110,8 +110,7 @@
             this.pictureBox3.Size = new System.Drawing.Size(163, 149);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
-            this.pictureBox3.Click += new System.EventHandler(this.Form1_Load);
-            this.pictureBox3.MouseCaptureChanged += new System.EventHandler(this.Form1_Load);
+            this.pictureBox3.Click += new System.EventHandler(this.button1_Click);
             // 
             // pictureBox2
             // 
@@ -157,6 +156,7 @@
             this.pictureBox7.Size = new System.Drawing.Size(163, 149);
             this.pictureBox7.TabIndex = 21;
             this.pictureBox7.TabStop = false;
+            this.pictureBox7.Click += new System.EventHandler(this.button2_Click);
             // 
             // pictureBox8
             // 
