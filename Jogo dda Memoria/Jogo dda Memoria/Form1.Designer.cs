@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
@@ -73,7 +72,6 @@
             this.button14 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -253,7 +251,7 @@
             // button1
             // 
             this.button1.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button1.Location = new System.Drawing.Point(432, 23);
+            this.button1.Location = new System.Drawing.Point(465, 23);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(163, 149);
             this.button1.TabIndex = 34;
@@ -263,7 +261,7 @@
             // button2
             // 
             this.button2.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button2.Location = new System.Drawing.Point(634, 23);
+            this.button2.Location = new System.Drawing.Point(661, 23);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(163, 149);
             this.button2.TabIndex = 35;
@@ -273,7 +271,7 @@
             // button3
             // 
             this.button3.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button3.Location = new System.Drawing.Point(830, 23);
+            this.button3.Location = new System.Drawing.Point(853, 23);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(163, 149);
             this.button3.TabIndex = 36;
@@ -283,7 +281,7 @@
             // button4
             // 
             this.button4.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button4.Location = new System.Drawing.Point(1013, 23);
+            this.button4.Location = new System.Drawing.Point(1046, 23);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(163, 149);
             this.button4.TabIndex = 37;
@@ -293,7 +291,7 @@
             // button5
             // 
             this.button5.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button5.Location = new System.Drawing.Point(830, 190);
+            this.button5.Location = new System.Drawing.Point(853, 190);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(163, 149);
             this.button5.TabIndex = 44;
@@ -303,7 +301,7 @@
             // button6
             // 
             this.button6.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button6.Location = new System.Drawing.Point(634, 190);
+            this.button6.Location = new System.Drawing.Point(661, 190);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(163, 149);
             this.button6.TabIndex = 43;
@@ -313,7 +311,7 @@
             // button7
             // 
             this.button7.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button7.Location = new System.Drawing.Point(432, 190);
+            this.button7.Location = new System.Drawing.Point(465, 190);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(163, 149);
             this.button7.TabIndex = 42;
@@ -359,7 +357,7 @@
             // button8
             // 
             this.button8.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button8.Location = new System.Drawing.Point(830, 368);
+            this.button8.Location = new System.Drawing.Point(853, 356);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(163, 149);
             this.button8.TabIndex = 51;
@@ -369,7 +367,7 @@
             // button9
             // 
             this.button9.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button9.Location = new System.Drawing.Point(643, 356);
+            this.button9.Location = new System.Drawing.Point(661, 356);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(163, 149);
             this.button9.TabIndex = 50;
@@ -379,7 +377,7 @@
             // button10
             // 
             this.button10.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button10.Location = new System.Drawing.Point(432, 356);
+            this.button10.Location = new System.Drawing.Point(465, 356);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(163, 149);
             this.button10.TabIndex = 49;
@@ -425,7 +423,7 @@
             // button11
             // 
             this.button11.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button11.Location = new System.Drawing.Point(830, 523);
+            this.button11.Location = new System.Drawing.Point(853, 523);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(163, 149);
             this.button11.TabIndex = 58;
@@ -435,7 +433,7 @@
             // button12
             // 
             this.button12.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button12.Location = new System.Drawing.Point(634, 519);
+            this.button12.Location = new System.Drawing.Point(661, 523);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(163, 149);
             this.button12.TabIndex = 57;
@@ -445,7 +443,7 @@
             // button13
             // 
             this.button13.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button13.Location = new System.Drawing.Point(432, 519);
+            this.button13.Location = new System.Drawing.Point(465, 523);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(163, 149);
             this.button13.TabIndex = 56;
@@ -491,7 +489,7 @@
             // button14
             // 
             this.button14.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button14.Location = new System.Drawing.Point(1022, 190);
+            this.button14.Location = new System.Drawing.Point(1046, 190);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(163, 149);
             this.button14.TabIndex = 59;
@@ -501,7 +499,7 @@
             // button15
             // 
             this.button15.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button15.Location = new System.Drawing.Point(1022, 356);
+            this.button15.Location = new System.Drawing.Point(1046, 356);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(163, 149);
             this.button15.TabIndex = 60;
@@ -511,18 +509,12 @@
             // button16
             // 
             this.button16.BackgroundImage = global::Jogo_dda_Memoria.Properties.Resources.S1;
-            this.button16.Location = new System.Drawing.Point(1022, 523);
+            this.button16.Location = new System.Drawing.Point(1045, 523);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(163, 149);
             this.button16.TabIndex = 61;
             this.button16.UseVisualStyleBackColor = true;
             this.button16.Click += new System.EventHandler(this.button16_Click);
-            // 
-            // timer1
-            // 
-            this.timer1.Enabled = true;
-            this.timer1.Interval = 5000;
-            
             // 
             // Form1
             // 
@@ -657,7 +649,6 @@
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Button button15;
         private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Timer timer1;
     }
 }
 
