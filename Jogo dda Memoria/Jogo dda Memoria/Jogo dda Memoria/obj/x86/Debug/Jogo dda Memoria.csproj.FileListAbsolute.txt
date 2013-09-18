@@ -1,0 +1,90 @@
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+C:\Users\ifsp\Desktop\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+D:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+D:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+D:\RAFAEL\JOGODAMEMORIA\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Jogo-da-Memoria\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Jogo-da-Memoria-master\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+E:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+E:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.final.resources
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Perdeu.resources
+C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\ranke.mdf
+C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\ranke_log.ldf
+C:\Jogo dda Memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe.config
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form2.resources
+C:\Jogo dda Memoria\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Inicio.resources
+C:\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe.config
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.pdb
+C:\Jogo dda Memoria\bin\Debug\ranke.mdf
+C:\Jogo dda Memoria\bin\Debug\ranke_log.ldf
+C:\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe
+C:\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.pdb
+C:\Jogo dda Memoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.final.resources
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form1.resources
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Form2.resources
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Inicio.resources
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Perdeu.resources
+C:\Jogo dda Memoria\obj\x86\Debug\Jogo_dda_Memoria.Properties.Resources.resources
+C:\Jogo dda Memoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Jogo dda Memoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.exe.manifest
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Debug\Jogo dda Memoria.application
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.exe.manifest
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Debug\Jogo dda Memoria.application

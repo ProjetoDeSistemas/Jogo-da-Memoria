@@ -1,0 +1,23 @@
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\Jogo dda Memoria.exe.config
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\ranke.mdf
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\ranke_log.ldf
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\Jogo dda Memoria.exe.manifest
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\Jogo dda Memoria.application
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\Jogo dda Memoria.exe
+C:\Jogo dda memoria\Jogo dda Memoria\bin\Release\Jogo dda Memoria.pdb
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo_dda_Memoria.final.resources
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo_dda_Memoria.Form1.resources
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo_dda_Memoria.Form2.resources
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo_dda_Memoria.Inicio.resources
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo_dda_Memoria.Perdeu.resources
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo_dda_Memoria.Properties.Resources.resources
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo dda Memoria.exe.manifest
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo dda Memoria.application
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo dda Memoria.exe
+C:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo dda Memoria.pdb
+D:\Jogo dda memoria\Jogo dda Memoria\bin\Release\Jogo dda Memoria.exe.config
+D:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo dda Memoria.exe
+D:\Jogo dda memoria\Jogo dda Memoria\obj\x86\Release\Jogo dda Memoria.pdb
